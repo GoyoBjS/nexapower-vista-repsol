@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#f6f9fb"/>
+  <rect width="1080" height="23" fill="#2f8f6b"/>
+  <text x="90" y="132" font-family="Arial,sans-serif" font-size="58" font-weight="700" fill="#0f3b57">Nexa<tspan fill="#2f8f6b">Power</tspan></text>
+  <text x="90" y="267" font-family="Arial,sans-serif" font-size="29" font-weight="700" letter-spacing="3" fill="#2f8f6b">TARIFA DE LUZ TE DA MÁS DE REPSOL</text>
+  <text x="90" y="420" font-family="Arial,sans-serif" font-size="82" font-weight="700" fill="#0f3b57">Tu luz te puede</text>
+  <text x="90" y="520" font-family="Arial,sans-serif" font-size="82" font-weight="700" fill="#0f3b57">dar algo más.</text>
+  <rect x="90" y="590" width="900" height="330" rx="24" fill="#e6f4ed"/>
+  <text x="145" y="785" font-family="Arial,sans-serif" font-size="186" font-weight="700" fill="#0f3b57">100 €</text>
+  <text x="151" y="855" font-family="Arial,sans-serif" font-size="43" font-weight="700" fill="#2f8f6b">de saldo Waylet</text>
+  <text x="90" y="1010" font-family="Arial,sans-serif" font-size="35" fill="#0f3b57">Consulta la oferta y sus condiciones.</text>
+  <rect x="90" y="1058" width="505" height="88" rx="12" fill="#0f3b57"/>
+  <text x="132" y="1115" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#fff">SOLICITAR INFORMACIÓN  →</text>
+  <text x="90" y="1230" font-family="Arial,sans-serif" font-size="22" fill="#526b78">Contratación del 15/10 al 31/12/2026. Saldo en dos abonos</text>
+  <text x="90" y="1264" font-family="Arial,sans-serif" font-size="22" fill="#526b78">tras la activación. Sujeto a condiciones y disponibilidad.</text>
+</svg>
